@@ -1,0 +1,5 @@
+venv
+todo.md
+__pycache__
+data/*
+db/*
